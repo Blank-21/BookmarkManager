@@ -24,3 +24,8 @@ User story 2:
 As a time-pressed user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
+
+User story 3:
+As a user,
+so that i can update my bookmarks list
+i would like to add site's addresses to the bookmark manager
